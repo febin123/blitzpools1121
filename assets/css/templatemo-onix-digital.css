@@ -2468,4 +2468,7 @@ responsive
   .payment img{
     min-width: 12%;
   }
+	 .payment{
+    margin-left: -70px;
+    }
 }
